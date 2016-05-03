@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+<h1>My Favorite Recipes</h1>
+    
+    <p>List of Ingredients</p>
+    <ul>
+        <li>Chicken</li>
+        <li>Garlic Powder</li>
+        <li>Adobo</li>
+        <li>Sazon</li>
+        <li>Black Pepper</li>
+        <li>Brown Mustard</li>
+        <li>Oil</li>
+        <li>Flour (for breading)</li>
+        <li>Salt (optional)</li>
+    </ul>
+    
+    <p> This is how you make Fried Chicken</p>
+    <ol>
+    <li>Heat the cooking oil in a frying pan.</li>
+    <li>Season the chicken with all the ingredients</li>
+    <li>Dip the chicken in the flour</li>
+    <li>Place it in the oil letting it cook for 7-8 minutes on each side</li>
+    <li>Remove it from the oil and salt it immediately</li>    
+    </ol>
+   
+</body>
+</html>
